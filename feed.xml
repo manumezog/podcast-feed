@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Robotics Brief</title>
+    <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
+    <description>A daily podcast covering the latest in robotics and automation.</description>
+    <language>en-us</language>
+    <itunes:author>Alex</itunes:author>
+    <itunes:summary>A daily podcast covering the latest in robotics and automation.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Manuel</itunes:name>
+      <itunes:email>manumezog@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    <image>
+      <url>https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg</url>
+      <title>The Robotics Brief</title>
+      <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
+    </image>
+    <item>
+      <title>The Robotics Brief — 2026-06-02</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3" length="10576173" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3</guid>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Explore how researchers are making AI judges fairer by</description>
+      <itunes:summary>Explore how researchers are making AI judges fairer by</itunes:summary>
+      <itunes:duration>11:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
