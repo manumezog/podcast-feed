@@ -24,6 +24,19 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — 2026-06-27</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-27.mp3" length="13518765" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-27.mp3</guid>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Explore breakthroughs in making robot learning scalable and continuous</description>
+      <itunes:summary>Explore breakthroughs in making robot learning scalable and continuous</itunes:summary>
+      <itunes:duration>14:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — 2026-06-02</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3" length="10576173" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3</guid>
