@@ -24,6 +24,19 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — 2026-07-06</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-06.mp3" length="13726125" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-06.mp3</guid>
+      <pubDate>Mon, 06 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Explore how robots are gaining human-like dexterity</description>
+      <itunes:summary>Explore how robots are gaining human-like dexterity</itunes:summary>
+      <itunes:duration>14:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — 2026-07-01</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-01.mp3" length="13561005" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-01.mp3</guid>
