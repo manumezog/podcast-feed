@@ -24,6 +24,19 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — 2026-07-13</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-13.mp3" length="12849453" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-13.mp3</guid>
+      <pubDate>Mon, 13 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Explore new frontiers in AI reasoning with video generation, and</description>
+      <itunes:summary>Explore new frontiers in AI reasoning with video generation, and</itunes:summary>
+      <itunes:duration>13:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — 2026-07-06</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-06.mp3" length="13726125" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-06.mp3</guid>
