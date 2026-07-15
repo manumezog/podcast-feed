@@ -26,9 +26,9 @@
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3" length="35373886" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3</guid>
       <pubDate>Tue, 02 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Exploring the forefront of AI, this episode uncovers methods to mitigate perceptual judgment bias in multimodal LLM-as-a-judge systems. Learn about RoboDream, which leverages compositional world models for scalable robot data synthesis, and ProtoAda's</description>
-      <itunes:summary>Exploring the forefront of AI, this episode uncovers methods to mitigate perceptual judgment bias in multimodal LLM-as-a-judge systems. Learn about RoboDream, which leverages compositional world models for scalable robot data synthesis, and ProtoAda's</itunes:summary>
-      <itunes:subtitle>Exploring the forefront of AI, this episode uncovers methods to mitigate perceptual judgment bias in multimodal LLM-as-a-judge systems. Learn about RoboDream, which leverages compositional world models for scalable robot data synthesis, and ProtoAda's</itunes:subtitle>
+      <description>Discover the latest breakthroughs in AI, from mitigating perceptual bias in multimodal LLMs to generating scalable synthetic data for robots with RoboDream. We explore how prototypes enhance continuous learning for MLLMs and a new predictive visual code for efficient video processing. Plus, dive into ClinEnv, an interactive EHR environment for training agents on complex, long-horizon clinical tasks. These innovations are pushing the boundaries of intelligent systems across diverse applications.</description>
+      <itunes:summary>Discover the latest breakthroughs in AI, from mitigating perceptual bias in multimodal LLMs to generating scalable synthetic data for robots with RoboDream. We explore how prototypes enhance continuous learning for MLLMs and a new predictive visual code for efficient video processing. Plus, dive into ClinEnv, an interactive EHR environment for training agents on complex, long-horizon clinical tasks. These innovations are pushing the boundaries of intelligent systems across diverse applications.</itunes:summary>
+      <itunes:subtitle>Discover the latest breakthroughs in AI, from mitigating perceptual bias in multimodal LLMs to generating scalable synthetic data for robots with RoboDream. We explore how prototypes enhance continuous learning for MLLMs and a new predictive visual code f</itunes:subtitle>
       <itunes:duration>12:16</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -36,13 +36,13 @@
     </item>
 
     <item>
-      <title>The Robotics Brief — 2026-06-27</title>
+      <title>The Robotics Brief — Learning AI</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-27.mp3" length="24855390" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-27.mp3</guid>
       <pubDate>Sat, 27 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Explore groundbreaking approaches to robot learning, including DanceOPD's generative field distillation and scalable behavior cloning leveraging open data for complex behaviors. Discover how world action models facilitate continual imitation learning through recurrent generative</description>
-      <itunes:summary>Explore groundbreaking approaches to robot learning, including DanceOPD's generative field distillation and scalable behavior cloning leveraging open data for complex behaviors. Discover how world action models facilitate continual imitation learning through recurrent generative</itunes:summary>
-      <itunes:subtitle>Explore groundbreaking approaches to robot learning, including DanceOPD's generative field distillation and scalable behavior cloning leveraging open data for complex behaviors. Discover how world action models facilitate continual imitation learning thro</itunes:subtitle>
+      <description>Discover how cutting-edge research is revolutionizing robot learning and AI generation this week. We delve into methods like DanceOPD for efficient control and scalable behavior cloning that harnesses open data, alongside World Action Models enabling continual imitation learning with generative replays. Learn how reinforcement learning can surprisingly enhance large language models without ground-truth solutions, and explore the intriguing capabilities of Autoregressive Boltzmann Generators. This episode offers a comprehensive look at the forefront of AI innovation.</description>
+      <itunes:summary>Discover how cutting-edge research is revolutionizing robot learning and AI generation this week. We delve into methods like DanceOPD for efficient control and scalable behavior cloning that harnesses open data, alongside World Action Models enabling continual imitation learning with generative replays. Learn how reinforcement learning can surprisingly enhance large language models without ground-truth solutions, and explore the intriguing capabilities of Autoregressive Boltzmann Generators. This episode offers a comprehensive look at the forefront of AI innovation.</itunes:summary>
+      <itunes:subtitle>Discover how cutting-edge research is revolutionizing robot learning and AI generation this week. We delve into methods like DanceOPD for efficient control and scalable behavior cloning that harnesses open data, alongside World Action Models enabling cont</itunes:subtitle>
       <itunes:duration>08:37</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -50,13 +50,13 @@
     </item>
 
     <item>
-      <title>The Robotics Brief — 2026-07-01</title>
+      <title>The Robotics Brief — AI Robots</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-01.mp3" length="13561005" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-01.mp3</guid>
       <pubDate>Wed, 01 Jul 2026 06:00:00 +0000</pubDate>
-      <description>This week, dive into advanced world models for robotic manipulation, from disentangled video generation (DVG-WM) to adaptive latent models (AdaJEPA), making robots more efficient learners. Discover how Freeform Preference Learning and the Human-as-Humanoid approach enable robots to acquire complex skills, including zero-shot humanoid learning from human demonstrations. We also explore how metacognitive feedback elicits faithful uncertainty expression in LLMs, enhancing their reliability for future robotic integration. Tune in for the latest in embodied AI and intelligent control.</description>
-      <itunes:summary>This week, dive into advanced world models for robotic manipulation, from disentangled video generation (DVG-WM) to adaptive latent models (AdaJEPA), making robots more efficient learners. Discover how Freeform Preference Learning and the Human-as-Humanoid approach enable robots to acquire complex skills, including zero-shot humanoid learning from human demonstrations. We also explore how metacognitive feedback elicits faithful uncertainty expression in LLMs, enhancing their reliability for future robotic integration. Tune in for the latest in embodied AI and intelligent control.</itunes:summary>
-      <itunes:subtitle>This week, dive into advanced world models for robotic manipulation, from disentangled video generation (DVG-WM) to adaptive latent models (AdaJEPA), making robots more efficient learners. Discover how Freeform Preference Learning and the Human-as-Humanoi</itunes:subtitle>
+      <description>This episode dives deep into how robots are building sophisticated internal world models, from efficient disentangled video generation to adaptive latent architectures for enhanced manipulation. We uncover groundbreaking approaches enabling zero-shot humanoid learning directly from human</description>
+      <itunes:summary>This episode dives deep into how robots are building sophisticated internal world models, from efficient disentangled video generation to adaptive latent architectures for enhanced manipulation. We uncover groundbreaking approaches enabling zero-shot humanoid learning directly from human</itunes:summary>
+      <itunes:subtitle>This episode dives deep into how robots are building sophisticated internal world models, from efficient disentangled video generation to adaptive latent architectures for enhanced manipulation. We uncover groundbreaking approaches enabling zero-shot huma</itunes:subtitle>
       <itunes:duration>14:07</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -64,13 +64,13 @@
     </item>
 
     <item>
-      <title>The Robotics Brief — Agents,</title>
+      <title>The Robotics Brief — 2026-07-06</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-06.mp3" length="13726125" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-06.mp3</guid>
       <pubDate>Mon, 06 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Discover how robots are achieving more intricate manipulation with a visual-tactile world action model and deploying embodied AI seamlessly across various platforms using a new portable runtime. We then explore the creation of controllable simulated agents</description>
-      <itunes:summary>Discover how robots are achieving more intricate manipulation with a visual-tactile world action model and deploying embodied AI seamlessly across various platforms using a new portable runtime. We then explore the creation of controllable simulated agents</itunes:summary>
-      <itunes:subtitle>Discover how robots are achieving more intricate manipulation with a visual-tactile world action model and deploying embodied AI seamlessly across various platforms using a new portable runtime. We then explore the creation of controllable simulated agent</itunes:subtitle>
+      <description>Discover how robots are gaining a more nuanced sense of touch and sight for complex manipulation tasks, alongside new portable runtimes making embodied AI accessible across diverse robotic platforms. Then, explore controllable simulated agents with dynamic behavior, and soar with QuadRocket, an innovative aerial testbed for adaptive thrust-vector control. Finally, we delve into the critical topic of distributed attacks threatening persistent-state AI control systems.</description>
+      <itunes:summary>Discover how robots are gaining a more nuanced sense of touch and sight for complex manipulation tasks, alongside new portable runtimes making embodied AI accessible across diverse robotic platforms. Then, explore controllable simulated agents with dynamic behavior, and soar with QuadRocket, an innovative aerial testbed for adaptive thrust-vector control. Finally, we delve into the critical topic of distributed attacks threatening persistent-state AI control systems.</itunes:summary>
+      <itunes:subtitle>Discover how robots are gaining a more nuanced sense of touch and sight for complex manipulation tasks, alongside new portable runtimes making embodied AI accessible across diverse robotic platforms. Then, explore controllable simulated agents with dynami</itunes:subtitle>
       <itunes:duration>14:17</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -82,9 +82,9 @@
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-13.mp3" length="12849453" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-13.mp3</guid>
       <pubDate>Mon, 13 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Tune into The Robotics Brief for a deep dive into the latest advancements shaping AI and robotics. We uncover OpenCoF, which teaches AI to reason using video generation, and introduce DexVerse, a new benchmark for multi-task, multi-embodiment dexterous manipulation. Learn how AUTOPILOT VQA is setting standards for incident-centric dashcam understanding and how ContactMimic enables humanoids to interact robustly through contact control. Plus, explore ARDY's autoregressive diffusion model for generating incredibly interactive human motion.</description>
-      <itunes:summary>Tune into The Robotics Brief for a deep dive into the latest advancements shaping AI and robotics. We uncover OpenCoF, which teaches AI to reason using video generation, and introduce DexVerse, a new benchmark for multi-task, multi-embodiment dexterous manipulation. Learn how AUTOPILOT VQA is setting standards for incident-centric dashcam understanding and how ContactMimic enables humanoids to interact robustly through contact control. Plus, explore ARDY's autoregressive diffusion model for generating incredibly interactive human motion.</itunes:summary>
-      <itunes:subtitle>Tune into The Robotics Brief for a deep dive into the latest advancements shaping AI and robotics. We uncover OpenCoF, which teaches AI to reason using video generation, and introduce DexVerse, a new benchmark for multi-task, multi-embodiment dexterous ma</itunes:subtitle>
+      <description>Explore how AI is making strides in understanding complex environments and interacting with the physical world. This episode unpacks OpenCoF's video generation for advanced reasoning and AUTOPILOT VQA's</description>
+      <itunes:summary>Explore how AI is making strides in understanding complex environments and interacting with the physical world. This episode unpacks OpenCoF's video generation for advanced reasoning and AUTOPILOT VQA's</itunes:summary>
+      <itunes:subtitle>Explore how AI is making strides in understanding complex environments and interacting with the physical world. This episode unpacks OpenCoF's video generation for advanced reasoning and AUTOPILOT VQA's</itunes:subtitle>
       <itunes:duration>13:23</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -92,13 +92,13 @@
     </item>
 
     <item>
-      <title>The Robotics Brief — Agents Learn</title>
+      <title>The Robotics Brief — 2026-07-15</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-15.mp3" length="12620205" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-15.mp3</guid>
       <pubDate>Wed, 15 Jul 2026 06:00:00 +0000</pubDate>
-      <description>This week, The Robotics Brief explores cutting-edge research driving AI and robotics forward. We delve into procedural simulations enabling zero-demonstration self-driving cars and how AI agents can gauge task complexity. Learn</description>
-      <itunes:summary>This week, The Robotics Brief explores cutting-edge research driving AI and robotics forward. We delve into procedural simulations enabling zero-demonstration self-driving cars and how AI agents can gauge task complexity. Learn</itunes:summary>
-      <itunes:subtitle>This week, The Robotics Brief explores cutting-edge research driving AI and robotics forward. We delve into procedural simulations enabling zero-demonstration self-driving cars and how AI agents can gauge task complexity. Learn</itunes:subtitle>
+      <description>This episode explores how AI agents are becoming more sophisticated, from understanding task complexity to learning efficiently from synthetic failures in robotic manipulation. Discover how procedural driving simulations enable large-scale, zero-demonstration self-play for autonomous vehicles. We also examine a new on-device agent framework bringing advanced AI directly to mobile phones and how optical flow can serve as a unified action representation for world models.</description>
+      <itunes:summary>This episode explores how AI agents are becoming more sophisticated, from understanding task complexity to learning efficiently from synthetic failures in robotic manipulation. Discover how procedural driving simulations enable large-scale, zero-demonstration self-play for autonomous vehicles. We also examine a new on-device agent framework bringing advanced AI directly to mobile phones and how optical flow can serve as a unified action representation for world models.</itunes:summary>
+      <itunes:subtitle>This episode explores how AI agents are becoming more sophisticated, from understanding task complexity to learning efficiently from synthetic failures in robotic manipulation. Discover how procedural driving simulations enable large-scale, zero-demonstra</itunes:subtitle>
       <itunes:duration>13:08</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
