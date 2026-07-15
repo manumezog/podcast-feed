@@ -6,8 +6,6 @@
     <title>The Robotics Brief</title>
     <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     <description>A daily podcast covering the latest in robotics and automation.</description>
-    <generator>Podcaster Pipeline v1.0</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 16:25:27 +0000</lastBuildDate>
     <language>en-us</language>
     <itunes:author>Alex</itunes:author>
     <itunes:summary>A daily podcast covering the latest in robotics and automation.</itunes:summary>
@@ -24,51 +22,41 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
-      <title>The Robotics Brief — 2026-07-15</title>
-      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-15.mp3" length="12620205" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-15.mp3</guid>
-      <pubDate>Wed, 15 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Explore how AI agents are learning smarter and faster, from</description>
-      <itunes:summary>Explore how AI agents are learning smarter and faster, from</itunes:summary>
-      <itunes:duration>13:08</itunes:duration>
+      <title>The</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3" length="35373886" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3</guid>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Unpack the latest breakthroughs in AI this week, as we explore how to mitigate perceptual judgment bias in Multimodal LLMs and optimize video processing with predictive visual codes. Learn about innovative methods for scalable robot data synthesis using compositional world models, enabling more efficient training. We also delve into adaptive techniques for continual MLLM instruction tuning and the development of interactive, long-horizon EHR environments for intelligent agents, pushing the frontiers of practical AI.</description>
+      <itunes:summary>Unpack the latest breakthroughs in AI this week, as we explore how to mitigate perceptual judgment bias in Multimodal LLMs and optimize video processing with predictive visual codes. Learn about innovative methods for scalable robot data synthesis using compositional world models, enabling more efficient training. We also delve into adaptive techniques for continual MLLM instruction tuning and the development of interactive, long-horizon EHR environments for intelligent agents, pushing the frontiers of practical AI.</itunes:summary>
+      <itunes:subtitle>Unpack the latest breakthroughs in AI this week, as we explore how to mitigate perceptual judgment bias in Multimodal LLMs and optimize video processing with predictive visual codes. Learn about innovative methods for scalable robot data synthesis using c</itunes:subtitle>
+      <itunes:duration>12:16</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
     </item>
 
     <item>
-      <title>The Robotics Brief — 2026-07-13</title>
-      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-13.mp3" length="12849453" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-13.mp3</guid>
-      <pubDate>Mon, 13 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Explore new frontiers in AI reasoning with video generation, and</description>
-      <itunes:summary>Explore new frontiers in AI reasoning with video generation, and</itunes:summary>
-      <itunes:duration>13:23</itunes:duration>
+      <title>The Robotics</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-27.mp3" length="24855390" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-27.mp3</guid>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 +0000</pubDate>
+      <description>Discover how robots are learning more effectively than ever, with advancements like DanceOPD's generative field distillation and scalable behavior cloning from open data. We delve into World Action Models, enabling continual imitation learning through recurrent generative replays, pushing the boundaries of autonomous adaptation. Additionally, explore how Reinforcement Learning can improve LLMs without ground-truth solutions and the fascinating capabilities of Autoregressive Boltzmann Generators.</description>
+      <itunes:summary>Discover how robots are learning more effectively than ever, with advancements like DanceOPD's generative field distillation and scalable behavior cloning from open data. We delve into World Action Models, enabling continual imitation learning through recurrent generative replays, pushing the boundaries of autonomous adaptation. Additionally, explore how Reinforcement Learning can improve LLMs without ground-truth solutions and the fascinating capabilities of Autoregressive Boltzmann Generators.</itunes:summary>
+      <itunes:subtitle>Discover how robots are learning more effectively than ever, with advancements like DanceOPD's generative field distillation and scalable behavior cloning from open data. We delve into World Action Models, enabling continual imitation learning through rec</itunes:subtitle>
+      <itunes:duration>08:37</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
     </item>
 
     <item>
-      <title>The Robotics Brief — 2026-07-06</title>
-      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-06.mp3" length="13726125" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-06.mp3</guid>
-      <pubDate>Mon, 06 Jul 2026 06:00:00 +0000</pubDate>
-      <description>Explore how robots are gaining human-like dexterity</description>
-      <itunes:summary>Explore how robots are gaining human-like dexterity</itunes:summary>
-      <itunes:duration>14:17</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
-    </item>
-
-    <item>
-      <title>The Robotics Brief — 2026-07-01</title>
+      <title>The Robotics Brief</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-01.mp3" length="13561005" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-01.mp3</guid>
       <pubDate>Wed, 01 Jul 2026 06:00:00 +0000</pubDate>
-      <description>This episode dives into how robots are learning to master</description>
-      <itunes:summary>This episode dives into how robots are learning to master</itunes:summary>
+      <description>Discover how robots are building more efficient world models for manipulation, including the innovative DVG-WM and AdaJEPA models. We explore how human preferences can guide robotic learning, enabling more natural interactions without explicit demonstrations. Plus, learn about zero-shot humanoid training directly from human videos and how metacognitive feedback enhances LLM uncertainty expression for more reliable AI agents.</description>
+      <itunes:summary>Discover how robots are building more efficient world models for manipulation, including the innovative DVG-WM and AdaJEPA models. We explore how human preferences can guide robotic learning, enabling more natural interactions without explicit demonstrations. Plus, learn about zero-shot humanoid training directly from human videos and how metacognitive feedback enhances LLM uncertainty expression for more reliable AI agents.</itunes:summary>
+      <itunes:subtitle>Discover how robots are building more efficient world models for manipulation, including the innovative DVG-WM and AdaJEPA models. We explore how human preferences can guide robotic learning, enabling more natural interactions without explicit demonstrati</itunes:subtitle>
       <itunes:duration>14:07</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -76,29 +64,47 @@
     </item>
 
     <item>
-      <title>The Robotics Brief — 2026-06-27</title>
-      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-27.mp3" length="13518765" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-27.mp3</guid>
-      <pubDate>Sat, 27 Jun 2026 06:00:00 +0000</pubDate>
-      <description>Explore breakthroughs in making robot learning scalable and continuous</description>
-      <itunes:summary>Explore breakthroughs in making robot learning scalable and continuous</itunes:summary>
-      <itunes:duration>14:04</itunes:duration>
+      <title>The Robotics Brief</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-06.mp3" length="13726125" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-06.mp3</guid>
+      <pubDate>Mon, 06 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Explore the cutting edge of robotics, from systems mastering contact-rich manipulation with visual-tactile models to efficient embodied AI inference on heterogeneous robots. Discover how researchers are creating controllable simulated agents with nuanced behaviors and pushing aerial control boundaries with rocket-like quadcopters. We also delve into the critical topic of distributed attacks on persistent-state AI control systems, uncovering new vulnerabilities. Tune in for a deep dive into these fascinating advancements.</description>
+      <itunes:summary>Explore the cutting edge of robotics, from systems mastering contact-rich manipulation with visual-tactile models to efficient embodied AI inference on heterogeneous robots. Discover how researchers are creating controllable simulated agents with nuanced behaviors and pushing aerial control boundaries with rocket-like quadcopters. We also delve into the critical topic of distributed attacks on persistent-state AI control systems, uncovering new vulnerabilities. Tune in for a deep dive into these fascinating advancements.</itunes:summary>
+      <itunes:subtitle>Explore the cutting edge of robotics, from systems mastering contact-rich manipulation with visual-tactile models to efficient embodied AI inference on heterogeneous robots. Discover how researchers are creating controllable simulated agents with nuanced </itunes:subtitle>
+      <itunes:duration>14:17</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
     </item>
 
     <item>
-      <title>The Robotics Brief — 2026-06-02</title>
-      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3" length="10576173" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3</guid>
-      <pubDate>Tue, 02 Jun 2026 06:00:00 +0000</pubDate>
-      <description>This episode dives into cutting-edge methods for enhancing AI</description>
-      <itunes:summary>This episode dives into cutting-edge methods for enhancing AI</itunes:summary>
-      <itunes:duration>11:00</itunes:duration>
+      <title>The Robotics</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-13.mp3" length="12849453" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-13.mp3</guid>
+      <pubDate>Mon, 13 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Explore how AI is learning to reason about the world through video generation with OpenCoF, and mastering complex real-world scenarios like dashcam incidents with AUTOPILOT VQA. We also examine groundbreaking work in robot dexterity, from the multi-task DexVerse benchmark to ContactMimic's humanoid interaction via precise contact control. Plus, discover ARDY, an autoregressive diffusion model generating incredibly realistic</description>
+      <itunes:summary>Explore how AI is learning to reason about the world through video generation with OpenCoF, and mastering complex real-world scenarios like dashcam incidents with AUTOPILOT VQA. We also examine groundbreaking work in robot dexterity, from the multi-task DexVerse benchmark to ContactMimic's humanoid interaction via precise contact control. Plus, discover ARDY, an autoregressive diffusion model generating incredibly realistic</itunes:summary>
+      <itunes:subtitle>Explore how AI is learning to reason about the world through video generation with OpenCoF, and mastering complex real-world scenarios like dashcam incidents with AUTOPILOT VQA. We also examine groundbreaking work in robot dexterity, from the multi-task D</itunes:subtitle>
+      <itunes:duration>13:23</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
     </item>
+
+    <item>
+      <title>The Robotics Brief</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-15.mp3" length="12620205" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-15.mp3</guid>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Explore how AI agents are pushing boundaries in robotics, from TerraZero's procedural driving simulations enabling zero-demonstration self-play to DenseReward's method of learning manipulation via failure synthesis. We investigate</description>
+      <itunes:summary>Explore how AI agents are pushing boundaries in robotics, from TerraZero's procedural driving simulations enabling zero-demonstration self-play to DenseReward's method of learning manipulation via failure synthesis. We investigate</itunes:summary>
+      <itunes:subtitle>Explore how AI agents are pushing boundaries in robotics, from TerraZero's procedural driving simulations enabling zero-demonstration self-play to DenseReward's method of learning manipulation via failure synthesis. We investigate</itunes:subtitle>
+      <itunes:duration>13:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+
   </channel>
 </rss>
