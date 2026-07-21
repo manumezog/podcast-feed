@@ -22,6 +22,20 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — Robots, Safety, Scene Understanding, Causality, Memory</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-18.mp3" length="14668461" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-18.mp3</guid>
+      <pubDate>Sat, 18 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Explore how advanced robotics are making strides in understanding and interacting with the world this week. We analyze RoboTTT's context scaling for smarter robot policies and confront the critical challenge of hidden physical dangers in robot actions, moving beyond mere text safety. Discover SceneBind's innovative approach to multimodal scene understanding across vision, audio, and language. Plus, we break down causal analysis for urban driving data and examine online neural space-time memory for dynamic novel view synthesis.</description>
+      <itunes:summary>Explore how advanced robotics are making strides in understanding and interacting with the world this week. We analyze RoboTTT's context scaling for smarter robot policies and confront the critical challenge of hidden physical dangers in robot actions, moving beyond mere text safety. Discover SceneBind's innovative approach to multimodal scene understanding across vision, audio, and language. Plus, we break down causal analysis for urban driving data and examine online neural space-time memory for dynamic novel view synthesis.</itunes:summary>
+      <itunes:subtitle>Explore how advanced robotics are making strides in understanding and interacting with the world this week. We analyze RoboTTT's context scaling for smarter robot policies and confront the critical challenge of hidden physical dangers in robot actions, mo</itunes:subtitle>
+      <itunes:duration>15:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — AI Agents and Multimodal Model Advancement</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3" length="35373886" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-06-02.mp3</guid>
