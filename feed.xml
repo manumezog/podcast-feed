@@ -22,6 +22,20 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — Robots Learn and Navigate 3D Worlds</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-26.mp3" length="14347821" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-26.mp3</guid>
+      <pubDate>Sun, 26 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Unpack how robots are learning to manipulate with greater intelligence, from AXIS's community-driven data engine to strategic data collection that fosters compositional generalization. We then delve into critical advancements addressing memory bottlenecks in sequential embodied AI and equipping Vision-Language Models with robust 3D awareness. Finally, explore OpenForgeRL, a versatile platform for training agents across any environment, driving the next generation of adaptable robotic systems.</description>
+      <itunes:summary>Unpack how robots are learning to manipulate with greater intelligence, from AXIS's community-driven data engine to strategic data collection that fosters compositional generalization. We then delve into critical advancements addressing memory bottlenecks in sequential embodied AI and equipping Vision-Language Models with robust 3D awareness. Finally, explore OpenForgeRL, a versatile platform for training agents across any environment, driving the next generation of adaptable robotic systems.</itunes:summary>
+      <itunes:subtitle>Unpack how robots are learning to manipulate with greater intelligence, from AXIS's community-driven data engine to strategic data collection that fosters compositional generalization. We then delve into critical advancements addressing memory bottlenecks</itunes:subtitle>
+      <itunes:duration>14:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — Robots, Safety, Scene Understanding, Causality, Memory</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-18.mp3" length="14668461" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-18.mp3</guid>
