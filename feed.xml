@@ -22,6 +22,20 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — AI Agents, Tools, and Sensing</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-08-22.mp3" length="14969133" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-08-22.mp3</guid>
+      <pubDate>Sat, 22 Aug 2026 06:00:00 +0000</pubDate>
+      <description>Unpack the latest in AI, from benchmarking LLM agents for recursive self-improvement in algorithmic design to inducing task models directly from computer-use traces. We also explore groundbreaking surgical robotics, examining joint visual-trajectory forecasting crucial for precise motion planning. Learn how MidTool enhances agentic tool use through mid-training data synthesis, alongside a fascinating comparison of radar technologies for non-invasive in-bedroom activity and sleep monitoring.</description>
+      <itunes:summary>Unpack the latest in AI, from benchmarking LLM agents for recursive self-improvement in algorithmic design to inducing task models directly from computer-use traces. We also explore groundbreaking surgical robotics, examining joint visual-trajectory forecasting crucial for precise motion planning. Learn how MidTool enhances agentic tool use through mid-training data synthesis, alongside a fascinating comparison of radar technologies for non-invasive in-bedroom activity and sleep monitoring.</itunes:summary>
+      <itunes:subtitle>Unpack the latest in AI, from benchmarking LLM agents for recursive self-improvement in algorithmic design to inducing task models directly from computer-use traces. We also explore groundbreaking surgical robotics, examining joint visual-trajectory forec</itunes:subtitle>
+      <itunes:duration>15:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — Robots Learn and Navigate 3D Worlds</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-26.mp3" length="14347821" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-07-26.mp3</guid>
