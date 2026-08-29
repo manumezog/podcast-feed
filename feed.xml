@@ -22,6 +22,20 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — Evolving AI Agents and World Models</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-08-29.mp3" length="11546157" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-08-29.mp3</guid>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0000</pubDate>
+      <description>This episode dives into the cutting edge of AI agent evolution and advanced video modeling. Discover how agents gain persistent knowledge for skill evolution and even become automatic red-teamers, enhancing robustness.</description>
+      <itunes:summary>This episode dives into the cutting edge of AI agent evolution and advanced video modeling. Discover how agents gain persistent knowledge for skill evolution and even become automatic red-teamers, enhancing robustness.</itunes:summary>
+      <itunes:subtitle>This episode dives into the cutting edge of AI agent evolution and advanced video modeling. Discover how agents gain persistent knowledge for skill evolution and even become automatic red-teamers, enhancing robustness.</itunes:subtitle>
+      <itunes:duration>12:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — AI Agents, Tools, and Sensing</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-08-22.mp3" length="14969133" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-08-22.mp3</guid>
