@@ -22,6 +22,20 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — Robots, AI, and Autonomous Systems</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-02.mp3" length="13316781" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-02.mp3</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0000</pubDate>
+      <description>Dive into the cutting edge of robotic manipulation with Facet-0, a new foundation model tackling contact-rich tasks, and discover how SG-AMP is revolutionizing active perception and motion planning for agricultural robots. We then explore whether language models can reason about component lifecycles in complex agent systems with CordisBench, and examine the growing impact of verbal reinforcement learning. Finally, understand the critical role of mechanism design in achieving robust alignment and control for advanced robotic and AI systems.</description>
+      <itunes:summary>Dive into the cutting edge of robotic manipulation with Facet-0, a new foundation model tackling contact-rich tasks, and discover how SG-AMP is revolutionizing active perception and motion planning for agricultural robots. We then explore whether language models can reason about component lifecycles in complex agent systems with CordisBench, and examine the growing impact of verbal reinforcement learning. Finally, understand the critical role of mechanism design in achieving robust alignment and control for advanced robotic and AI systems.</itunes:summary>
+      <itunes:subtitle>Dive into the cutting edge of robotic manipulation with Facet-0, a new foundation model tackling contact-rich tasks, and discover how SG-AMP is revolutionizing active perception and motion planning for agricultural robots. We then explore whether language</itunes:subtitle>
+      <itunes:duration>13:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — Evolving AI Agents and World Models</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-08-29.mp3" length="11546157" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-08-29.mp3</guid>
