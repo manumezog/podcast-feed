@@ -22,6 +22,20 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — AI Agents Navigate, Steer, And Evolve</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-10.mp3" length="12090285" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-10.mp3</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
+      <description>This week, we delve into groundbreaking advancements in robot intelligence, exploring how TANGO enables humanoids to navigate complex spaces using whole-body vision-language-action models and DeCAL pushes towards physically-grounded dexterity. We also uncover the power of self-evolving execution structures for LLM agents with Procedural Graphs and discuss innovative methods for Proxy Policy Steering. Finally, discover a data-driven framework for identifying and prioritizing Robotic Process Automation opportunities, specifically tailored for healthcare processes.</description>
+      <itunes:summary>This week, we delve into groundbreaking advancements in robot intelligence, exploring how TANGO enables humanoids to navigate complex spaces using whole-body vision-language-action models and DeCAL pushes towards physically-grounded dexterity. We also uncover the power of self-evolving execution structures for LLM agents with Procedural Graphs and discuss innovative methods for Proxy Policy Steering. Finally, discover a data-driven framework for identifying and prioritizing Robotic Process Automation opportunities, specifically tailored for healthcare processes.</itunes:summary>
+      <itunes:subtitle>This week, we delve into groundbreaking advancements in robot intelligence, exploring how TANGO enables humanoids to navigate complex spaces using whole-body vision-language-action models and DeCAL pushes towards physically-grounded dexterity. We also unc</itunes:subtitle>
+      <itunes:duration>12:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — Robots, AI, and Autonomous Systems</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-02.mp3" length="13316781" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-02.mp3</guid>
