@@ -22,6 +22,20 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — AI Agents Master Real-World Physics</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-16.mp3" length="13699245" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-16.mp3</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0000</pubDate>
+      <description>The rise of agentic societies necessitates a critical look at implementing a &quot;social harness&quot; for ethical integration. This episode unpacks advancements in data-scarce robotic insertion using motion-prior regularization and introduces modality</description>
+      <itunes:summary>The rise of agentic societies necessitates a critical look at implementing a &quot;social harness&quot; for ethical integration. This episode unpacks advancements in data-scarce robotic insertion using motion-prior regularization and introduces modality</itunes:summary>
+      <itunes:subtitle>The rise of agentic societies necessitates a critical look at implementing a &quot;social harness&quot; for ethical integration. This episode unpacks advancements in data-scarce robotic insertion using motion-prior regularization and introduces modality</itunes:subtitle>
+      <itunes:duration>14:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — AI Agents Navigate, Steer, And Evolve</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-10.mp3" length="12090285" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-10.mp3</guid>
