@@ -22,6 +22,20 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — Robots Learn, Adapt, and Perceive</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-10-21.mp3" length="12304557" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-10-21.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Explore the next generation of robotic intelligence, from unified world action language models enabling intuitive embodied control to robots mastering adaptable dexterous skills through hybrid mimicking.</description>
+      <itunes:summary>Explore the next generation of robotic intelligence, from unified world action language models enabling intuitive embodied control to robots mastering adaptable dexterous skills through hybrid mimicking.</itunes:summary>
+      <itunes:subtitle>Explore the next generation of robotic intelligence, from unified world action language models enabling intuitive embodied control to robots mastering adaptable dexterous skills through hybrid mimicking.</itunes:subtitle>
+      <itunes:duration>12:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — AI Agents Master Real-World Physics</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-16.mp3" length="13699245" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-09-16.mp3</guid>
