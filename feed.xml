@@ -22,6 +22,20 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — AI Agents Master Complex Worlds</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-11-08.mp3" length="10277037" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-11-08.mp3</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+      <description>Tune in to discover how robots are becoming more robust, learning from human feedback to correct errors, and mastering dexterous tasks with unprecedented data efficiency through latent RL priors and lightning-fast visual planning. We also delve into groundbreaking work on latent agent swarms, exploring how they enable evolutionary discovery and optimization. Finally, imagine a 'Scientist World' where AI agents autonomously grow and conduct research, pushing the boundaries of scientific exploration.</description>
+      <itunes:summary>Tune in to discover how robots are becoming more robust, learning from human feedback to correct errors, and mastering dexterous tasks with unprecedented data efficiency through latent RL priors and lightning-fast visual planning. We also delve into groundbreaking work on latent agent swarms, exploring how they enable evolutionary discovery and optimization. Finally, imagine a 'Scientist World' where AI agents autonomously grow and conduct research, pushing the boundaries of scientific exploration.</itunes:summary>
+      <itunes:subtitle>Tune in to discover how robots are becoming more robust, learning from human feedback to correct errors, and mastering dexterous tasks with unprecedented data efficiency through latent RL priors and lightning-fast visual planning. We also delve into groun</itunes:subtitle>
+      <itunes:duration>10:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — Robots Learn, Adapt, and Perceive</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-10-21.mp3" length="12304557" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-10-21.mp3</guid>
