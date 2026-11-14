@@ -22,6 +22,20 @@
       <link>https://manumezog.github.io/podcast-feed/feed.xml</link>
     </image>
     <item>
+      <title>The Robotics Brief — AI Models Learn and Translate Visually</title>
+      <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-11-14.mp3" length="13534893" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-11-14.mp3</guid>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+      <description>Unpack the cutting edge of AI and robotics, from enhancing UAV navigation with visual imagination to understanding rapid learning in neural networks.</description>
+      <itunes:summary>Unpack the cutting edge of AI and robotics, from enhancing UAV navigation with visual imagination to understanding rapid learning in neural networks.</itunes:summary>
+      <itunes:subtitle>Unpack the cutting edge of AI and robotics, from enhancing UAV navigation with visual imagination to understanding rapid learning in neural networks.</itunes:subtitle>
+      <itunes:duration>14:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/artwork.jpg"/>
+    </item>
+
+    <item>
       <title>The Robotics Brief — AI Agents Master Complex Worlds</title>
       <enclosure url="https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-11-08.mp3" length="10277037" type="audio/mpeg"/>
       <guid isPermaLink="false">https://pub-4462e924d1fb405a91da5291a177d44b.r2.dev/2026-11-08.mp3</guid>
